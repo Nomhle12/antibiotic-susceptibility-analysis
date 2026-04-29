@@ -1,0 +1,13 @@
+Sample_ID,Bacteria,Antibiotic,Zone_mm
+S1,Staphylococcus epidermidis,Chloramphenicol,20
+S2,Escherichia coli,Chloramphenicol,28
+S3,Escherichia coli,Erythromycin,18
+S4,Escherichia coli,Fusidic acid,
+S5,Escherichia coli,Novobiocin,8
+S6,Escherichia coli,Streptomycin,30
+S7,E. coli,Tetracycline,10
+S8,Bacillus subtilis,Gentamicin,19
+S9,Enterococcus faecalis,Gentamicin,20
+S10,Bacillus subtilis,Streptomycin,12
+S11,Enterococcus faecalis,Streptomycin,20
+S12,Escherichia coli,Novobiocin,8
